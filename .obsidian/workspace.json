@@ -197,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "35684dbd014b1cdb",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/test",
     "0-INBOX/temp/qc-tmp.md",
     "2-RAILS/Sections/Raw/toc-tree/sed8F8sgH",
     "0-INBOX/temp/TOC-senge-nga-ro/pre-toc-ingest-backup.md",
@@ -233,7 +234,6 @@
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_002.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_003.md",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_004.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_017.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_014.md.tmp.18508.a512ea9774f0"
   ]
 }
