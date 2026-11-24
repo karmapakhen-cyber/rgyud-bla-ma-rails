@@ -199,6 +199,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/test/toc-tree-qc.md",
+    "0-INBOX/test/toc-tree-senge-nga-ro.md",
+    "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
+    "0-INBOX/test/pdf-sachad-skeleton.tsv",
     "0-INBOX/test",
     "0-INBOX/temp/qc-tmp.md",
     "2-RAILS/Sections/Raw/toc-tree/sed8F8sgH",
@@ -224,16 +228,12 @@
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_011.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_004.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_011.md.tmp.18508.3a8926fe8983",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_004.md.tmp.18508.ef32acc1c719",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_005.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_015.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_002.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_016.md",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_005.md",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_003.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_002.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_003.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_004.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_014.md.tmp.18508.a512ea9774f0"
+    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_002.md"
   ]
 }
