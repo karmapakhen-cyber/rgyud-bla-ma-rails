@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/temp/toc-tree-senge-nga-ro.md",
+                "file": "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toc-tree-senge-nga-ro"
+              "title": "རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།"
             }
           }
         ]
@@ -197,10 +197,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "35684dbd014b1cdb",
   "lastOpenFiles": [
-    "0-INBOX/test/toc-tree-qc.md",
     "0-INBOX/test/toc-tree-senge-nga-ro.md",
+    "0-INBOX/temp/toc-tree-senge-nga-ro.md",
+    "0-INBOX/test/toc-tree-qc.md",
     "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
     "0-INBOX/test/pdf-sachad-skeleton.tsv",
     "0-INBOX/test",
@@ -221,7 +222,6 @@
     "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
     "0-INBOX/temp/toc-tree-senge-nga-ro.md.new",
     "0-INBOX/temp/sedop6h1k",
-    "0-INBOX/temp/toc-tree-senge-nga-ro.md",
     "0-INBOX/temp/toc-candidates-senge-nga-ro.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_006.md",

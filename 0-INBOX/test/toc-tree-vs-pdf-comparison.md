@@ -69,3 +69,15 @@ pdf: Downloads/རྒྱུད་བླ་མ་ཕྱིར་མི་ལྡ�
 ## Fix applied (item 3)
 
 Confirmed on PDF page 261: the third entry ད༣ is followed by two sub-entries (རྒྱས་པར་བཤད་པ། and དོན་བསྡུ་བ། at folio 147ན), then ད༤. In [toc-tree-senge-nga-ro.md](toc-tree-senge-nga-ro.md) the two nodes were moved from under 1.2.2.2.2.2.4.3.2.1.2.6 to under 1.2.2.2.2.2.4.3.2.1.2.3 and renumbered .3.1 and .3.2. The checker against the candidates and enumerations still reports 0 issues (toc-tree-qc.md). The copies in `0-INBOX/temp/` and `2-RAILS/Sections/Raw/toc-tree/` were not changed.
+
+## Fix applied (item 4, PDF page 260, folios 138ན–140ན)
+
+The tree had no children under 1.2.2.2.2.2.4.2.2 ("གཉིས་པ་རྒྱུན་མི་འཆད་པའི་དོན་ཕྱེ་སྟེ་བཤད་པ།"), while the PDF lists five. The source commentary confirms five parts at line 735 ("རྒྱུན་མི་འཆད་པའི་དོན་བཤད་པ་ལ། མིང་གི་རྣམ་གྲངས་མདོར་བསྟན། དོན་གྱི་དབྱེ་བ་རྒྱས་པར་བཤད། དེ་དག་དཔེ་ཡིས་མཚོན་ཚུལ། དཔེ་དོན་སྦྱར་བའི་རྒྱས་བཤད། བསྡུས་ཏེ་རྒྱུན་མི་འཆད་ཚུལ་ལོ།"). Added as 1.2.2.2.2.2.4.2.2.1–.5 in the corrected tree, worded from the source.
+
+## Still open (item 5, PDF page 251, folio 68བ)
+
+The PDF's third child of 1.2.2.2.2.2.1.2 (label ཉ༣) looks to read "བཤད་པའི་དོན་བསྡུ་བ།" (a summary part). The tree has only two children there. The source has a summary passage at line 425 ("གཉིས་པ་དོན་བསྡུས་ཏེ་བཤད་པ་ནི། …") but its position in the division is not clear from a quick search, so nothing was added. Needs a human look at source lines 405–427.
+
+## Not done
+
+A full title-by-title proofread of all 460 entries from the screenshots was not done. Only the structural check plus the spots above were resolved.
