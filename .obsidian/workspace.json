@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/add-toc/SKILL.md",
+                "file": "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "toc-enumerations-senge-nga-ro"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
     "0-INBOX/temp/toc-candidates-senge-nga-ro.md",
+    "4-SYSTEM/Skills/add-toc/SKILL.md",
+    "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_006.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_011.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_004.md",
@@ -228,7 +229,6 @@
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_016.md",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_016.md.tmp.18508.a153af5176ef",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_007.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_017.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_010.md.tmp.18508.aacae95f3603",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_010.md.tmp.18508.6aff6671d2f2",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_001.md.tmp.18508.287447ab1856",
