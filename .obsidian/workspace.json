@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
+                "file": "0-INBOX/temp/toc-tree-senge-nga-ro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toc-enumerations-senge-nga-ro"
+              "title": "toc-tree-senge-nga-ro"
             }
           }
         ]
@@ -197,11 +197,28 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "35684dbd014b1cdb",
   "lastOpenFiles": [
+    "0-INBOX/temp/qc-tmp.md",
+    "2-RAILS/Sections/Raw/toc-tree/sed8F8sgH",
+    "0-INBOX/temp/TOC-senge-nga-ro/pre-toc-ingest-backup.md",
+    "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-senge-nga-ro.md",
+    "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-senge-nga-ro.md",
+    "2-RAILS/Sections/Raw/toc-enumerations/senge-nga-ro.md",
+    "2-RAILS/Sections/Raw/toc-candidates/senge-nga-ro.md",
+    "2-RAILS/Sections/Raw/toc-qc",
+    "2-RAILS/Sections/Raw/toc-enumerations",
+    "2-RAILS/Sections/Raw/toc-candidates",
+    "2-RAILS/Sections/Raw/toc-tree/senge-nga-ro.md",
+    "2-RAILS/Sections/Raw/toc-tree",
+    "0-INBOX/temp/toc-tree-qc-source-senge-nga-ro.md",
+    "0-INBOX/temp/toc-tree-qc-senge-nga-ro.md",
+    "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
+    "0-INBOX/temp/toc-tree-senge-nga-ro.md.new",
+    "0-INBOX/temp/sedop6h1k",
+    "0-INBOX/temp/toc-tree-senge-nga-ro.md",
     "0-INBOX/temp/toc-candidates-senge-nga-ro.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
-    "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_006.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_011.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_004.md",
@@ -217,23 +234,6 @@
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_003.md",
     "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_004.md",
     "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_017.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_014.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_014.md.tmp.18508.a512ea9774f0",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_009.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_015.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_007.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_011.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_006.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_014.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_009.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_016.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_016.md.tmp.18508.a153af5176ef",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_007.md",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_010.md.tmp.18508.aacae95f3603",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_010.md.tmp.18508.6aff6671d2f2",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_001.md.tmp.18508.287447ab1856",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_008.md.tmp.18508.3f78f4b0d16c",
-    "0-INBOX/temp/TOC-senge-nga-ro/enumerations/chunk_018.md.tmp.18508.a32255793b9d",
-    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_013.md.tmp.18508.824627d613e5"
+    "0-INBOX/temp/TOC-senge-nga-ro/candidates/chunk_014.md.tmp.18508.a512ea9774f0"
   ]
 }
