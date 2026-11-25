@@ -200,6 +200,8 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/Text transclusion/text/review-notes.md",
+    "0-INBOX/Text transclusion/text/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
     "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
     "0-INBOX/Text transclusion/review-notes.md",
     "0-INBOX/Text transclusion/text",
@@ -233,7 +235,6 @@
     "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-senge-nga-ro.md",
     "2-RAILS/Sections/Raw/toc-enumerations/senge-nga-ro.md",
     "2-RAILS/Sections/Raw/toc-candidates/senge-nga-ro.md",
-    "2-RAILS/Sections/Raw/toc-tree/senge-nga-ro.md",
-    "0-INBOX/temp/toc-tree-qc-source-senge-nga-ro.md"
+    "2-RAILS/Sections/Raw/toc-tree/senge-nga-ro.md"
   ]
 }
