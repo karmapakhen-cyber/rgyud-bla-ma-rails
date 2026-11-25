@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
+                "file": "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toc-tree-vs-pdf-comparison"
+              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids"
             }
           }
         ]
@@ -200,6 +200,8 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/Text transclusion/review-notes.md",
+    "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
     "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
     "0-INBOX/Text transclusion/Untitled",
     "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
@@ -214,11 +216,9 @@
     "0-INBOX/Tibetan_Buddhist_Obsidian_Claude_Skills/README.md",
     "0-INBOX/Tibetan_Buddhist_Obsidian_Claude_Skills",
     "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
-    "0-INBOX/Text transclusion/review-notes.md",
     "0-INBOX/Text transclusion/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
     "0-INBOX/temp/toc-tree-senge-nga-ro   Revised.md",
     "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
-    "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
     "0-INBOX/test/toc-tree-senge-nga-ro.md",
     "0-INBOX/test/toc-tree-qc.md",
     "4-SYSTEM/CLAUDE.md",
