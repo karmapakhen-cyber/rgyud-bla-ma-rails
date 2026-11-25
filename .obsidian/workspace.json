@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
+                "file": "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids"
+              "title": "རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།"
             }
           }
         ]
@@ -200,10 +200,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "0-INBOX/Text transclusion/review-notes.md",
-    "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
     "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
-    "0-INBOX/Text transclusion/Untitled",
+    "0-INBOX/Text transclusion/review-notes.md",
+    "0-INBOX/Text transclusion/text",
+    "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
     "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
     "0-INBOX/Tibetan_Buddhist_Obsidian_Claude_Skills/block-id-auditor/SKILL.md",
     "0-INBOX/Tibetan_Buddhist_Obsidian_Claude_Skills/block-id-auditor",
