@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
+                "file": "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།"
+              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids"
             }
           }
         ]
@@ -198,11 +198,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "e4bb90246ff825c8",
   "lastOpenFiles": [
-    "0-INBOX/Text transclusion/review-notes.md",
     "0-INBOX/Text transclusion/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
     "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
+    "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
+    "0-INBOX/Text transclusion/review-notes.md",
     "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
     "0-INBOX/temp/toc-tree-senge-nga-ro   Revised.md",
     "0-INBOX/temp/toc-enumerations-senge-nga-ro.md",
@@ -212,7 +213,6 @@
     "4-SYSTEM/CLAUDE.md",
     "0-INBOX/Text transclusion",
     "4-SYSTEM/About System.md",
-    "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
     "0-INBOX/test/pdf-sachad-skeleton.tsv",
     "0-INBOX/test",
     "0-INBOX/temp/qc-tmp.md",
