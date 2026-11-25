@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b15f97dddf22b2d8",
+        "id": "dea5793780ceef7a",
         "type": "tabs",
-        "dimension": 50.43478260869565,
         "children": [
           {
-            "id": "35684dbd014b1cdb",
+            "id": "e4bb90246ff825c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a2f357ba64144fbb",
-        "type": "tabs",
-        "dimension": 49.56521739130435,
-        "children": [
-          {
-            "id": "e691b1b505f42c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།"
+              "title": "New tab"
             }
           }
         ]
@@ -103,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.88623428344727,
-    "collapsed": true
+    "width": 401.88623428344727
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -222,10 +195,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "35684dbd014b1cdb",
+  "active": "e4bb90246ff825c8",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
     "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
+    "1-SOURCES/Commentaries/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།.md",
     "0-INBOX/test/toc-tree-senge-nga-ro.md",
     "0-INBOX/test/toc-tree-vs-pdf-comparison.md",
     "0-INBOX/temp/toc-tree-senge-nga-ro.md",
