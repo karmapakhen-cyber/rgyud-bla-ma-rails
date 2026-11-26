@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/temp/toc-enumerations-rgyud-bla-tika.md",
+                "file": "0-INBOX/temp/TOC-rgyud-bla-tika/tree-before-repair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toc-enumerations-rgyud-bla-tika"
+              "title": "tree-before-repair"
             }
           }
         ]
@@ -200,14 +200,16 @@
   },
   "active": "e6be028f894d4423",
   "lastOpenFiles": [
+    "0-INBOX/Text transclusion/text/review-notes.md",
+    "0-INBOX/temp/toc-tree-qc-rgyud-bla-tika.md",
+    "0-INBOX/Book/Book Extra/review-notes.md",
     "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
+    "0-INBOX/temp/toc-tree-rgyud-bla-tika.md",
+    "toc-enumerations-rgyud-bla-tika.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/unplaced-nodes.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/tree-before-repair.md",
     "0-INBOX/temp/toc-tree-qc-source-rgyud-bla-tika.md",
-    "0-INBOX/temp/toc-tree-qc-rgyud-bla-tika.md",
-    "0-INBOX/temp/toc-tree-rgyud-bla-tika.md",
-    "0-INBOX/temp/toc-candidates-rgyud-bla-tika.md",
-    "0-INBOX/temp/toc-enumerations-rgyud-bla-tika.md",
+    "toc-candidates-rgyud-bla-tika.md",
     "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་འགྲེལ་པ་ངེས་དོན་གསལ་བར་བྱེད་པའི་འོད་ཟེར།-transcluded.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_013.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_012.md",
@@ -225,9 +227,7 @@
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_008.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_007.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_006.md",
-    "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_004.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_004.md.tmp.8668.cb9484ad991b",
-    "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_007.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_001.md.tmp.8668.11c79c85f159",
     "0-INBOX/temp/TOC-rgyud-bla-tika/chunk-index.tsv",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations",
