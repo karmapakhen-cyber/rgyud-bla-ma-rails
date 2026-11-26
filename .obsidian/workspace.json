@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a280a9d5e20be270",
+        "id": "dab837372865dccf",
         "type": "tabs",
         "children": [
           {
-            "id": "e6be028f894d4423",
+            "id": "70b697bf19e67491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree"
-            }
-          }
-        ]
-      },
-      {
-        "id": "089ad4987abfd469",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a0aeffa2a57335fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།"
+              "title": "New tab"
             }
           }
         ]
@@ -100,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.88623428344727,
-    "collapsed": true
+    "width": 401.88623428344727
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -219,7 +194,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a0aeffa2a57335fc",
+  "active": "70b697bf19e67491",
   "lastOpenFiles": [
     "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
     "1-SOURCES/Commentaries/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།.md",
