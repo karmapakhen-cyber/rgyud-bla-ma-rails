@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad515f1117e764af",
+        "id": "efd59d8ecf2055e5",
         "type": "tabs",
-        "dimension": 44.78764478764479,
         "children": [
           {
-            "id": "39eae372eec2ae20",
+            "id": "40374e72f7175d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "71af1197b96c7b6f",
+        "id": "51442f95613c2ecd",
         "type": "tabs",
-        "dimension": 55.21235521235521,
         "children": [
           {
-            "id": "178d49b357d340be",
+            "id": "114e7a3f733107a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -260,13 +258,13 @@
       }
     ]
   },
-  "active": "178d49b357d340be",
+  "active": "114e7a3f733107a6",
   "lastOpenFiles": [
-    "0-INBOX/Text transclusion/text/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
-    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།-transcluded.md",
-    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
     "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/review-notes.md",
+    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།-transcluded.md",
     "0-INBOX/Book/Book Extra/review-notes.md",
+    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
+    "0-INBOX/Text transclusion/text/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
     "1-SOURCES/Commentaries/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/tree-before-repair.md",
     "0-INBOX/Text transclusion/text/review-notes.md",
