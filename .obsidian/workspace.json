@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "efd59d8ecf2055e5",
+        "id": "5ea7d85d5e3d1e29",
         "type": "tabs",
-        "dimension": 45.077220077220076,
         "children": [
           {
-            "id": "40374e72f7175d93",
+            "id": "6c4327ba1f7a9534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/review-notes.md",
+                "file": "0-INBOX/Text transclusion/text/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "review-notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "51442f95613c2ecd",
-        "type": "tabs",
-        "dimension": 54.92277992277992,
-        "children": [
-          {
-            "id": "114e7a3f733107a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།-transcluded.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།-transcluded"
+              "title": "རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded"
             }
           }
         ]
@@ -102,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.88623428344727,
-    "collapsed": true
+    "width": 401.88623428344727
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -221,86 +198,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "floating": {
-    "id": "4aee3615a026c4b2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a3378ebfa2ee1aa2",
-        "type": "window",
-        "children": [
-          {
-            "id": "57c392e369a696bd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68df730cb3fd0108",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 27,
-        "y": 0,
-        "width": 1026,
-        "height": 607,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "9e477c090ec3f935",
-        "type": "window",
-        "children": [
-          {
-            "id": "65ee645a7af70ff5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0d2f53ac761df836",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 27,
-        "y": 0,
-        "width": 1026,
-        "height": 607,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "114e7a3f733107a6",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
-    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།-transcluded.md",
-    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/review-notes.md",
-    "0-INBOX/Text transclusion/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
-    "1-SOURCES/Commentaries/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།.md",
+    "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།-block-ids.md",
     "1-SOURCES/Text/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མ།.md",
+    "2026-11-28.md",
+    "0-INBOX/TOC-senge-nga-ro/TOC-senge-nga-ro/enumerations/chunk_017.md",
+    "4-SYSTEM/Skills/SKILLS-CATALOG.md",
+    "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་འགྲེལ་པ་ངེས་དོན་གསལ་བའི་འོད་ཟེར།.md",
+    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/review-notes.md",
+    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།-transcluded.md",
+    "0-INBOX/Book/Book Extra/རྒྱུད་བླ་མའི་ཊིཀྐ།/རྒྱུད་བླ་མའི་ཊིཀྐ། TOC Tree.md",
+    "1-SOURCES/Commentaries/ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།.md",
     "0-INBOX/Book/Book Extra/review-notes.md",
     "0-INBOX/Text transclusion/text/རྒྱུད་བླ་མའི་འགྲེལ་པ་ཕྱིར་མི་ལྡོག་པ་སེངྒེའི་ང་རོ།-transcluded.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/tree-before-repair.md",
@@ -318,10 +227,6 @@
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_010.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_009.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/sedAQqmbR",
-    "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_009.md",
-    "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_011.md",
-    "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_005.md",
-    "0-INBOX/temp/TOC-rgyud-bla-tika/enumerations/chunk_004.md",
     "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_004.md.tmp.8668.cb9484ad991b",
     "0-INBOX/temp/TOC-rgyud-bla-tika/candidates/chunk_001.md.tmp.8668.11c79c85f159",
     "0-INBOX/temp/TOC-rgyud-bla-tika/chunk-index.tsv",
